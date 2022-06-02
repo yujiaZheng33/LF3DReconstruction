@@ -1,0 +1,31 @@
+﻿  源.cpp
+D:\Program Files\opencv3.2.0\opencv\build\include\opencv2\core\mat.hpp(2586,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\opencv3.2.0\opencv\build\include\opencv2\core\persistence.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\opencv3.2.0\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\opencv3.2.0\opencv\build\include\opencv2\core\utility.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\opencv3.2.0\opencv\build\include\opencv2\imgproc.hpp(592,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\point_cloud_color_handlers.h(611,11): warning C4996: 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor': use getColor() without parameters instead (It will be removed in PCL 1.12)
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\pcl_visualizer.h(1606,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\point_cloud_color_handlers.h(109,11): warning C4996: 'pcl::visualization::PointCloudColorHandler<PointT>::getColor': use getColor() without parameters instead (It will be removed in PCL 1.12)
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\point_cloud_color_handlers.h(107): message : 在编译 类 模板 成员函数“vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const”时
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\point_cloud_color_handlers.h(120): message : 查看对正在编译的函数 模板 实例化“vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const”的引用
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\point_cloud_color_handlers.h(506): message : 查看对正在编译的 类 模板 实例化“pcl::visualization::PointCloudColorHandler<PointT>”的引用
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\Program Files\PCL 1.11.0\include\pcl-1.11\pcl\visualization\pcl_visualizer.h(906): message : 查看对正在编译的 类 模板 实例化“pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>”的引用
+  PCLd.vcxproj -> D:\Works\light field\code\PCLd\x64\Debug\PCLd.exe
