@@ -9,3 +9,5 @@ Hopefully it will be of some help to you if you are learning about light field c
 [2]	Zhang S, Sheng H, Li C, et al. Robust depth estimation for light field via spinning parallelogram operator[J]. Computer Vision and Image Understanding, 2016, 145: 148-159.
 
 [3]	Tsai Y J, Liu Y L, Ouhyoung M, et al. Attention-based view selection networks for light-field disparity estimation[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 12095-12103.
+
+[4]	https://github.com/Vincentqyw/light-field-TB
